@@ -1,0 +1,239 @@
+@import "bootstrap.min.css";
+@import "bootstrap-theme.css";
+@import "owl.carousel.min.css";
+@import "owl.theme.default.css";
+@import "owl.theme.default.min.css";
+@import url('https://fonts.googleapis.com/css?family=Quicksand|Source+Sans+Pro&display=swap');
+
+header{
+  background-image: url(".sass-cache/header_background.jpg");
+}
+.main{
+  padding-top: 40px;
+
+  span {
+    color: white;
+    display: block;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 24px;
+  }
+
+  ul {
+    text-decoration: none;
+    list-style: none;
+    display: inline-block;
+    padding-top: 10px;
+
+    li {
+      display: inline-block;
+      padding-left: 20px;
+      a{
+        font-family: 'Source Sans Pro', sans-serif;
+        color: white;
+        text-decoration: none;
+      }
+    }
+  }
+}
+.header_text_block{
+  p:first-of-type{
+       color: #008ed6;
+       font-variant: all-small-caps;
+       font-family: 'Source Sans Pro', sans-serif;
+       font-weight: bold;
+       font-size: 14px;
+    padding-top: 100px;
+     }
+  p:nth-of-type(2){
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: 48px;
+  }
+  p:last-of-type{
+    color: #999999;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    padding-bottom: 45px;
+  }
+  a:first-of-type{
+    padding: 20px 30px;
+    background-color: #008ed6;
+    text-decoration: none;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 14px;
+  }
+  a:last-of-type{
+    padding: 20px 30px;
+    margin-left: 20px;
+    border: solid 0.5px grey;
+    text-decoration: none;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 14px;
+  }
+}
+.first_floor{
+  span{
+    color: #008ed6;
+    font-variant: all-small-caps;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    text-align: center;
+    display: block;
+    padding-top: 60px;
+  }
+  h1{
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+     &:after{
+       display: block;
+       content: "_ _";
+       color: #008ed6;
+       padding-bottom: 55px;
+     }
+  }
+}
+.fiches{
+  max-width: 100%;
+  margin: auto;
+  text-align: center;
+  p:first-of-type{
+  font-size: 24px;
+    color: black;
+    font-variant: none;
+    font-weight: normal;
+  }
+  p:last-of-type{
+    color: #999999;
+    font-size: 18px;
+    font-variant: none;
+    font-weight: normal;
+    display: inline-block;
+  }
+}
+.second_floor{
+  p:first-of-type{
+    color: #008ed6;
+    font-variant: all-small-caps;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    padding-top: 50px;
+  }
+ h1{
+   font-family: 'Source Sans Pro', sans-serif;
+   font-size: 36px;
+   font-weight: bold;
+   &:after{
+     display: block;
+     content: "_ _";
+     color: #008ed6;
+     padding-bottom: 20px;
+   }
+ }
+  p:last-of-type{
+    color: #999999;
+    font-size: 18px;
+    font-variant: none;
+    font-weight: normal;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding-bottom: 40px;
+  }
+  span{
+    color: black;
+    font-size: 14px;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-top: 10px;
+    display: inline-block;
+  }
+  img {
+    padding-bottom: 100px;
+  }
+}
+.container-fluid:nth-of-type(2){
+  background-color: #f2f2f2;
+}
+img[src="css/.sass-cache/phones3.jpg"] {
+  padding-bottom: 100px;
+}
+.owl-theme{
+  background-image: url(".sass-cache/owl.jpg");
+}
+.container.carousel {
+  p{
+    color: #008ed6;
+    padding-top: 50px;
+    font-variant: all-small-caps;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    text-align: center;
+  }
+  h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    &:after {
+      display: block;
+      content: "_ _";
+      color: #008ed6;
+      padding-bottom: 20px;
+    }
+
+  }
+ .request{
+    color: white;
+    display: inline-block;
+   padding-bottom: 210px;
+    font-family: 'Source Sans Pro', sans-serif;
+    div{
+      display: inline-block;
+      vertical-align: middle;
+      padding-right: 20px;
+    }
+    span{
+    }
+    p{
+      font-variant: normal;
+      font-style: italic;
+      font-weight: normal;
+      text-align: left;
+      color: white;
+    }
+    img{
+      width: 40px;
+    }
+  }
+}
+.second_floor{
+  ul{
+    display: inline-block;
+    padding-inline-start: 0;
+    li{
+      display: block;
+      line-height: 25px;
+      padding-left: 0;
+    }
+  }
+}
+.fas{
+  color: #2aabd2;
+  width: 20px;
+}
+.owl-carousel .owl-item img{
+  display: inline-block;
+}
+.third_floor{
+  background-color: black;
+}
