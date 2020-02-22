@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3e24c8d-17ad-4548-851f-5751c95e2f16" name="Default Changelist" comment="111">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/.sass-cache/1958eb1d4252056911927209e5ea1ceab728120b/style.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/css/.sass-cache/1958eb1d4252056911927209e5ea1ceab728120b/style.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/.sass-cache/93b47e6fcacc05abde3d89bf8b00e72d989ed8db/style.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/css/.sass-cache/93b47e6fcacc05abde3d89bf8b00e72d989ed8db/style.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/.sass-cache/e4efc7d6a83a368f05d6c6d77716194e346f9ce7/style.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/css/.sass-cache/e4efc7d6a83a368f05d6c6d77716194e346f9ce7/style.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +118,15 @@
       <workItem from="1582197109392" duration="1730000" />
       <workItem from="1582198948199" duration="30000" />
       <workItem from="1582283318825" duration="252000" />
-      <workItem from="1582283660186" duration="524000" />
+      <workItem from="1582283660186" duration="1420000" />
+      <workItem from="1582285125674" duration="1781000" />
+      <workItem from="1582286970043" duration="1776000" />
+      <workItem from="1582288808127" duration="1754000" />
+      <workItem from="1582290813377" duration="1232000" />
+      <workItem from="1582305844979" duration="1740000" />
+      <workItem from="1582307616199" duration="1134000" />
+      <workItem from="1582352704518" duration="1756000" />
+      <workItem from="1582354987831" duration="770000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1582284108372</created>
@@ -120,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582284108372</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="111">
+      <created>1582284250385</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582284250385</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,14 +157,14 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="450" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.860@0.0.1440.860" timestamp="1582022899398" />
-    <state x="240" y="0" key="CommitChangelistDialog2" timestamp="1582284222074">
+    <state x="240" y="0" key="CommitChangelistDialog2" timestamp="1582284347530">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="240" y="0" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1582284222074" />
-    <state x="31" y="43" key="DiffContextDialog" timestamp="1582284178532">
+    <state x="240" y="0" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1582284347530" />
+    <state x="31" y="43" key="DiffContextDialog" timestamp="1582284330009">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="31" y="43" key="DiffContextDialog/0.0.1440.860@0.0.1440.860" timestamp="1582284178532" />
+    <state x="31" y="43" key="DiffContextDialog/0.0.1440.860@0.0.1440.860" timestamp="1582284330009" />
     <state x="354" y="208" key="EditFileWatcherDialog" timestamp="1582010607695">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -155,6 +177,14 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="554" y="345" width="356" height="169" key="Github.CreateGistDialog/0.0.1440.860@0.0.1440.860" timestamp="1582283732151" />
+    <state x="602" y="323" width="260" height="214" key="Github.ShareDialog" timestamp="1582284367779">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="602" y="323" width="260" height="214" key="Github.ShareDialog/0.0.1440.860@0.0.1440.860" timestamp="1582284367779" />
+    <state x="312" y="151" key="Vcs.Push.Dialog.v2" timestamp="1582284260563">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="151" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1582284260563" />
     <state x="550" y="220" key="svn.repositoryBrowser" timestamp="1582283966216">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
