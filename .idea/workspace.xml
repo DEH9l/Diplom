@@ -32,6 +32,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
@@ -166,10 +167,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="111" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1609617091438">
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1609617204957">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1609617091438" />
+    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1609617204957" />
     <state x="594" y="298" key="EditFileWatcherDialog" timestamp="1609510677703">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -178,13 +179,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1609510619786" />
+    <state x="672" y="235" key="MultipleFileMergeDialog" timestamp="1609617170275">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="672" y="235" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609617170275" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1609510678897">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1609510678897" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1609617111196">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1609617150510">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1609617111196" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1609617150510" />
   </component>
 </project>
