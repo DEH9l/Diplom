@@ -115,14 +115,24 @@ header {
       content: "_ _";
       color: #008ed6;
       padding-bottom: 55px; }
+  .first_floor .prices {
+    padding-bottom: 40px; }
+  .first_floor .price__item {
+    padding-bottom: 2rem; }
   .first_floor .price {
-    border: solid 1px black; }
+    border: solid 1px #a1a1a1;
+    box-sizing: border-box;
+    display: inline-block; }
+    .first_floor .price:last-of-type {
+      margin-right: 0; }
     .first_floor .price h3 {
       text-align: center;
       font-variant: all-small-caps;
       font-weight: bold;
-      border-bottom: 1px solid black;
-      padding-bottom: 20px; }
+      border-bottom: 1px solid #a1a1a1;
+      padding: 20px 0;
+      margin-block-end: 0;
+      margin-block-start: 0; }
     .first_floor .price div:last-of-type {
       margin: auto;
       text-align: center; }
@@ -133,7 +143,9 @@ header {
       color: gray;
       font-variant: none;
       font-weight: initial;
-      padding-bottom: 40px; }
+      padding-bottom: 40px;
+      margin-block-end: 0;
+      margin-block-start: 0; }
     .first_floor .price span {
       display: inline-block;
       color: black;
@@ -144,6 +156,30 @@ header {
     .first_floor .price hr {
       color: black;
       height: 1px; }
+    .first_floor .price .price__content {
+      border-top: 1px solid #a1a1a1;
+      padding: 15px;
+      box-sizing: border-box; }
+      .first_floor .price .price__content a {
+        text-decoration: none;
+        color: #008ed6; }
+      .first_floor .price .price__content__order {
+        color: #008ed6;
+        border: 1px solid #a1a1a1;
+        display: inline-block;
+        border-radius: 5px;
+        padding: 10px 20px;
+        font-weight: bolder;
+        font-size: 14px; }
+    .first_floor .price:hover h3 {
+      color: #008ed6; }
+    .first_floor .price:hover .tariff {
+      background-color: #008ed6;
+      color: white; }
+    .first_floor .price:hover .price__content__order {
+      background-color: #008ed6; }
+    .first_floor .price:hover .price__content__order a, .first_floor .price:hover span, .first_floor .price:hover .per__mounth {
+      color: white; }
 
 .fiches {
   max-width: 100%;
@@ -294,6 +330,65 @@ img[src="css/.sass-cache/phones3.jpg"] {
     font-weight: bold;
     border-radius: 5px;
     font-size: 14px; }
+
+.contact-us {
+  position: relative;
+  font-family: 'Source Sans Pro', sans-serif;
+  background-color: #ededed;
+  padding-bottom: 1000px; }
+  .contact-us .contact-us__header p:first-of-type {
+    color: #008ed6;
+    font-variant: all-small-caps;
+    font-weight: bold;
+    font-size: 14px;
+    text-align: center;
+    display: block;
+    padding-top: 60px; }
+  .contact-us .contact-us__header p:last-of-type {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold; }
+    .contact-us .contact-us__header p:last-of-type:after {
+      display: block;
+      content: "_ _";
+      color: #008ed6;
+      padding-bottom: 55px; }
+  .contact-us .contact-us__item i {
+    color: #008ed6;
+    font-size: 30px;
+    padding: 20px 0; }
+  .contact-us .contact-us__item p {
+    color: #999999;
+    font-size: 16px;
+    line-height: 10px; }
+  .contact-us .contact-us__form {
+    padding: 20px 20px;
+    position: absolute;
+    bottom: -100px;
+    width: 80%;
+    text-align: center;
+    background-color: black; }
+    .contact-us .contact-us__form div {
+      display: inline-block; }
+    .contact-us .contact-us__form input {
+      background-color: black;
+      font-weight: bold;
+      text-transform: uppercase;
+      color: white;
+      border: solid 1px rgba(161, 161, 161, 0.52);
+      border-radius: 2px;
+      padding: 10px;
+      display: block;
+      margin-bottom: 20px; }
+    .contact-us .contact-us__form__message {
+      background-color: black;
+      display: inline-block;
+      color: white;
+      font-weight: bold;
+      height: 160px;
+      text-transform: uppercase;
+      border: solid 1px rgba(161, 161, 161, 0.52);
+      border-radius: 2px; }
 
 @media screen and (max-width: 1200px) {
   .header_text_block p:first-of-type {
