@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="c3e24c8d-17ad-4548-851f-5751c95e2f16" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/.sass-cache/1958eb1d4252056911927209e5ea1ceab728120b/style.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/.sass-cache/93b47e6fcacc05abde3d89bf8b00e72d989ed8db/style.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/.sass-cache/e4efc7d6a83a368f05d6c6d77716194e346f9ce7/style.scssc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.scss" afterDir="false" />
@@ -146,7 +149,10 @@
       <workItem from="1609666949638" duration="860000" />
       <workItem from="1609697064022" duration="1765000" />
       <workItem from="1609699355760" duration="1762000" />
-      <workItem from="1609701173016" duration="758000" />
+      <workItem from="1609701173016" duration="1005000" />
+      <workItem from="1609707885736" duration="1778000" />
+      <workItem from="1609791477573" duration="1760000" />
+      <workItem from="1609793277743" duration="1197000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1582284108372</created>
@@ -197,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609617333697</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="form">
+      <created>1609702067564</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1609702067564</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,17 +219,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="111" />
     <MESSAGE value="responsive__done" />
-    <option name="LAST_COMMIT_MESSAGE" value="responsive__done" />
+    <MESSAGE value="form" />
+    <option name="LAST_COMMIT_MESSAGE" value="form" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609617251296">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609617251296" />
-    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1609617333067">
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1609702066452">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1609617333067" />
+    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1609702066452" />
     <state x="184" y="85" key="DiffContextDialog" timestamp="1609617233870">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -237,13 +251,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1609510678897" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1609619787067">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1609702069659">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1609619787067" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1609702069659" />
     <state x="769" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609617322138">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="769" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1609617322138" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1609793685078">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1609793685078" />
   </component>
 </project>
