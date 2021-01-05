@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3e24c8d-17ad-4548-851f-5751c95e2f16" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/1643700.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iphone12promax.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/preview-9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/.sass-cache/1958eb1d4252056911927209e5ea1ceab728120b/style.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/.sass-cache/93b47e6fcacc05abde3d89bf8b00e72d989ed8db/style.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/.sass-cache/e4efc7d6a83a368f05d6c6d77716194e346f9ce7/style.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,13 +41,16 @@
     </option>
   </component>
   <component name="ProjectId" id="1XyAysx3pJ15ZbcxzwEV1ECFE9R" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -153,6 +154,8 @@
       <workItem from="1609707885736" duration="1778000" />
       <workItem from="1609791477573" duration="1760000" />
       <workItem from="1609793277743" duration="1197000" />
+      <workItem from="1609832987616" duration="71000" />
+      <workItem from="1609835682143" duration="713000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1582284108372</created>
@@ -217,6 +220,7 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="111" />
     <MESSAGE value="responsive__done" />
     <MESSAGE value="form" />
