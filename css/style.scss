@@ -408,7 +408,7 @@ img[src="css/.sass-cache/phones3.jpg"] {
   position: relative;
   font-family: 'Source Sans Pro', sans-serif;
   background-color: #ededed;
-  padding-bottom: 500px;
+  padding-bottom: 400px;
   .contact-us__header {
     p:first-of-type{
       color: #008ed6;
@@ -449,8 +449,9 @@ img[src="css/.sass-cache/phones3.jpg"] {
   .contact-us__form{
     padding: 30px 20px;
     position: absolute;
-    bottom: -100px;
-    width: 700px;
+    bottom: -10%;
+    right: 50%;
+    transform: translate(50%, 0);
     background-color: black;
     div{
       display: inline-block;
@@ -476,7 +477,7 @@ img[src="css/.sass-cache/phones3.jpg"] {
       background-color: black;
       display: inline-block;
       color: white;
-      max-width: 100%;
+      width: 100%;
       font-weight: bold;
       padding: 10px 0 20px 10px;
       text-transform: uppercase;
@@ -494,6 +495,35 @@ img[src="css/.sass-cache/phones3.jpg"] {
       font-size: 14px;
       background-color: #008ed6;
     }
+  }
+}
+.map{
+  img{
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    max-width: 100%;
+  }
+}
+footer{
+  font-family: 'Source Sans Pro', sans-serif;
+  background-color: black;
+  padding: 60px 0;
+  .footer__soc-icons{
+    a{
+      padding: 0 10px;
+    }
+    i{
+      color: #3b3a3f;
+      font-size: 20px;
+      &:hover{
+        color: #008ed6;
+      }
+    }
+  }
+  .footer__text{
+    color: #3b3a3f;
+    padding-top: 30px;
   }
 }
 @media screen and(max-width: 1200px){
@@ -526,7 +556,17 @@ img[src="css/.sass-cache/phones3.jpg"] {
       max-height: 100%;
       max-width: 100%;
     }
-
+}
+  .map{
+    img{
+      display: none;
+    }
+  }
+  footer{
+    padding: 100px 0;
+  }
+  .third_floor span{
+    font-size: 30px;
   }
   .header_text_block {
     z-index: 2;
